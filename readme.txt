@@ -1,5 +1,5 @@
 === WP Live Comments Validation  ===
-Contributors:chandgiri67
+Contributors:wp-chandra,chandgiri67
 Donate link:https://www.wpchandra.com/
 Tags: comments, comments validation, wpchandra, live validation,jquery validation
 Requires at least: 3.0.1
