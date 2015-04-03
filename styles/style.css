@@ -1,0 +1,11 @@
+#commentform label.error{
+	  color: #F00;
+  display: block;
+  padding: 8px 0px;
+  font-style: italic;
+}  
+
+#commentform input[type="text"].error,#commentform input[type="email"].error,#commentform textarea.error,#commentform input[type="url"].error {
+  border: 1px dashed #FC3636!important;
+  outline: none;
+}
