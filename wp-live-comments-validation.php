@@ -6,7 +6,7 @@
  Version: 1.0
  Author: Chandrakesh Kumar
  Author URI: http://www.wpchandra.com/
- License: GPL3
+ License: GPL3 
  */
  
  //add jquery validation and jquery 
@@ -15,7 +15,7 @@
 		wp_enqueue_script('jquery-validate',plugin_dir_url( __FILE__ ) . 'js/jquery.validate.min.js',array('jquery'),'1.10.0',true);
 		wp_enqueue_style('jquery-validate',plugin_dir_url( __FILE__ ) . 'styles/style.css',array(),'1.0');
 	}
-}
+} 
 function wp_live_comments_validation_init() { ?>
 	<script type="text/javascript">
 		jQuery(document).ready(function($) {
