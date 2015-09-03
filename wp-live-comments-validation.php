@@ -7,7 +7,7 @@
  Author: Chandrakesh Kumar
  Author URI: http://www.wpchandra.com/
  License: GPL3 
- */ 
+ */  
  
  //add jquery validation and jquery 
  function wp_live_comments_validation_scripts() {
