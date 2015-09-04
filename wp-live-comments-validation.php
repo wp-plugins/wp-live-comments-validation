@@ -16,7 +16,7 @@
 		wp_enqueue_style('jquery-validate',plugin_dir_url( __FILE__ ) . 'styles/style.css',array(),'1.0');
 	}
 } 
-function wp_live_comments_validation_init() { ?>
+function wp_live_comments_validation_init() { ?> 
 	<script type="text/javascript">
 		jQuery(document).ready(function($) {
 			
