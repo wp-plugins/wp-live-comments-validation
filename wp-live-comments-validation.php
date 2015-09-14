@@ -4,7 +4,7 @@
  Plugin URI: http://www.wpchandra.com/
  Description: Using WP Live Comments Validation plugin to validate comments form using jquery validation. This plugin allow you to easy way to validate comment form.
  Version: 1.0
- Author: Chandrakesh Kumar
+ Author: Chandrakesh Kumar 
  Author URI: http://www.wpchandra.com/
  License: GPL3   
  */    
