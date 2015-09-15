@@ -6,7 +6,7 @@
  Version: 1.0
  Author: Chandrakesh Kumar 
  Author URI: http://www.wpchandra.com/
- License: GPL3   
+ License: GPL3    
  */    
   
  //add jquery validation and jquery 
